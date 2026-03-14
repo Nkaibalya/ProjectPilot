@@ -31,7 +31,6 @@ ACCESS_TOKEN_EXPIRE_MINUTES=30
   REACT_APP_API_URL=http://localhost:8000
   ```
 - Start the app: `npm start`
-
 ## Demo Login
 (Make sure to run the seed script mentioned above first!)
 - **Email:** kaibalya@gmail.com
